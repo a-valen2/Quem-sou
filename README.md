@@ -245,4 +245,3 @@ That is what I build.
 *"The future belongs to systems that make trust native."*
 
 </p>
-```
