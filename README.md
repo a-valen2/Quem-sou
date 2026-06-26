@@ -1,67 +1,168 @@
-<!-- README.md by Andreza Valen | SynergyXZK -->
+```markdown
+<!-- README.md | Andreza Valen -->
 
 <h1 align="center">Andreza Valen</h1>
+
 <h3 align="center">
-Founder & Strategic Architect · Sovereign Digital Infrastructure  
-<br/>
-Blockchain · AI · Zero-Knowledge Systems
+Founder • Systems Architect • Technology Strategist
+<br>
+Building Sovereign Digital Infrastructure
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Next.js%20|%20React-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend-Node.js%20|%20Secure%20APIs-24DDBC?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blockchain-Polygon%20|%20ZK-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Architecture-Privacy%20|%20Governance-24DDBC?style=for-the-badge" />
+
+Blockchain • Artificial Intelligence • Zero-Knowledge Systems • Digital Trust
+
 </p>
 
 ---
 
-## 🧬 Architectural Thesis
+# Architecture before Products.
 
-I design and build sovereign digital infrastructure  
-where privacy, security, and governance are structural constraints — not optional layers.
+I design technology ecosystems where privacy, intelligence and trust
+are embedded into the architecture from the very first principle.
 
-Infrastructure before product.  
-Privacy, security, and governance before scale.
+My work connects Artificial Intelligence, Blockchain and Zero-Knowledge
+technologies to build digital infrastructure capable of supporting
+real-world coordination, identity, mobility, health and next-generation
+applications.
 
-Founder of a technology ecosystem applying  
-Blockchain, Artificial Intelligence, and Zero-Knowledge architectures  
-to real-world coordination and operational systems.
+I believe the future will not be built by isolated products.
 
----
-
-## 🔐 Core Domain
-
-- Architecting privacy-first systems  
-- Implementing governance-aware backend logic  
-- Designing scalable Web3 infrastructure  
-- Integrating AI within secure, verifiable frameworks  
+It will be built by interoperable systems.
 
 ---
 
-## 🛠 Technical Stack
+# Current Focus
 
-Frontend  
-Next.js · React · Chakra UI  
+• Sovereign Digital Infrastructure
 
-Backend & Infrastructure  
-Node.js · Secure APIs · Supabase · Hardhat  
+• AI-powered Operational Systems
 
-Blockchain  
-Solidity · Polygon · Zero-Knowledge Proofs  
+• Zero-Knowledge Architectures
 
-Data & Indexing  
-Subgraphs · On-chain analytics  
+• Digital Identity & Trust
 
-Payments  
-PIX · Web3 Wallet Integrations  
+• Secure Backend Design
+
+• Product Strategy
+
+• Systems Architecture
+
+• Privacy-by-Design
 
 ---
 
-## 🧠 Systems Philosophy
+# Technology Domains
 
-Security and privacy are not features.  
-They are architectural commitments.
+### Artificial Intelligence
 
-Scalability without governance is fragility.  
-Growth without infrastructure is noise.
+LLM Applications
+
+AI Agents
+
+Workflow Automation
+
+Decision Support Systems
+
+---
+
+### Blockchain
+
+Smart Contracts
+
+Polygon Ecosystem
+
+Tokenized Infrastructure
+
+On-chain Governance
+
+Wallet Integration
+
+---
+
+### Zero-Knowledge
+
+Privacy Layers
+
+Selective Disclosure
+
+Verifiable Credentials
+
+Identity Infrastructure
+
+---
+
+### Backend & Infrastructure
+
+Node.js
+
+Supabase
+
+Secure APIs
+
+Cloud Architecture
+
+Authentication
+
+Authorization
+
+---
+
+# Building
+
+### SynergyXZK
+
+Technology ecosystem focused on secure digital infrastructure,
+privacy-preserving systems and AI-driven products.
+
+Current initiatives include:
+
+• ZK-TamoJunto
+
+• TrainyX
+
+• Sniper Tokens AI
+
+---
+
+# Design Principles
+
+Privacy by Design
+
+Security by Default
+
+Governance by Architecture
+
+Human-centered Technology
+
+Scalability with Integrity
+
+Interoperability over Isolation
+
+Simplicity over Complexity
+
+---
+
+# Philosophy
+
+Technology should amplify human autonomy,
+not replace it.
+
+Trust should emerge from architecture,
+not from promises.
+
+The strongest systems are the ones users
+don't need to think about.
+
+Invisible complexity.
+Visible simplicity.
+
+---
+
+<p align="center">
+
+Building the infrastructure for trusted digital ecosystems.
+
+</p>
+```
