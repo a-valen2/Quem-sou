@@ -1,10 +1,10 @@
 <!-- ========================================================= -->
-<!--                  Andreza Valen | SynergyXZK               -->
+<!--                  Andrez Valen | SynergyXZK               -->
 <!-- ========================================================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1200&color=6D28D9&center=true&vCenter=true&width=950&lines=Andreza+Valen;Founder+%E2%80%A2+Systems+Architect;Building+Sovereign+Digital+Infrastructure" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1200&color=6D28D9&center=true&vCenter=true&width=950&lines=Andrez+Valen;Founder+%E2%80%A2+Systems+Architect;Building+Sovereign+Digital+Infrastructure" />
 
 </p>
 
