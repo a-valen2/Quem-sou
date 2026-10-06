@@ -85,14 +85,14 @@ SynergyXZK
 ├── Convergence X
 │      Strategic Technology Vision
 │
-├── Privacy-first Mobility Infrastructure
-│      ZK-TJ
-│
-├── AI-powered Fitness & Health Platform
+├──  AI-powered Fitness & Health Platform 
 │      TrainyX Lab
 │
+├──  Privacy-first Mobility Infrastructure
+│     ZK-TJ
+│
 ├── AI-driven Market Intelligence
-│      ST-AI
+│     ST-AI
 │
 └── Identity • Governance • Trust
        
